@@ -1,2 +1,5 @@
 # PHPStorm
 .idea
+
+# Contact submissions stored locally
+/data/contacts.json
